@@ -35,7 +35,6 @@ This section showcases the technologies I've used across my 34 public repositori
 ### Databases
 - **MySQL** — Used in courseraBackJava, [Modulo-RegistroPersona-y-Facturas](https://github.com/Cas636/Modulo-RegistroPersona-y-Facturas)
 - **SQL Server** — Used in [WEB-EvilCorp](https://github.com/Cas636/WEB-EvilCorp), [Farmacia](https://github.com/Cas636/Farmacia)
-- **PostgreSQL** — Mentioned in profile README
 - **JDBC** — Database connectivity in [Conexion-JDBC](https://github.com/Cas636/Conexion-JDBC)
 - **JPA/Hibernate** — ORM in Spring Boot projects
 
@@ -44,7 +43,6 @@ This section showcases the technologies I've used across my 34 public repositori
 - **Apache Maven** — Build automation in Spring Boot projects
 - **Apache Ant** — Build tool in 8+ Java projects
 - **npm** — Package management in React projects
-- **AWS** — Cloud platform (mentioned in profile)
 
 ### CI / Testing
 - **Jest** — Testing framework in React applications with @testing-library/react
@@ -56,7 +54,6 @@ This section showcases the technologies I've used across my 34 public repositori
 - **IntelliJ IDEA** — Java development in Flutter project
 - **Eclipse** — Java development in Othelo, Farmacia
 - **Code::Blocks** — C++ development in Proyecto-galaga
-- **DBeaver** — Database management tool
 
 ### Data & Algorithms
 - **Matplotlib** — Data visualization in [Algoritmo-FCFS](https://github.com/Cas636/Algoritmo-FCFS), [RoundRobin](https://github.com/Cas636/RoundRobin), [Agente-Viajero](https://github.com/Cas636/Agente-Viajero)
